@@ -1,0 +1,19 @@
+* {
+    margin:0;
+    padding:15px;
+    box-sizing:border-box ;
+    background:navy;
+    font-size:12px;
+    font-family:serif;
+}
+
+button {
+    background-color:white;
+    border-radius:20px;
+	cursor: pointer;
+}
+
+button:hover {
+    background-color:black;
+    color:white; 
+}
